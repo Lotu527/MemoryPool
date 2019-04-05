@@ -3,10 +3,10 @@
 #include<ctime>
 #include<vector>
 
-#include"StackAlloc.h"
-#include"MemoryPool.h"
+#include"StackAlloc.hpp"
+#include"MemoryPool.hpp"
 
-#define ELEMS 1e6
+#define ELEMS 1e5
 #define REPS 100
 
 int main()
